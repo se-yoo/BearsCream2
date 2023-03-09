@@ -36,5 +36,7 @@
   <img src="https://user-images.githubusercontent.com/26541472/223747645-6ab58346-6265-4158-8b3a-89bdfddf5f1f.png" width="700" />
 </div>
 
+<br>
+
 ## 이전 버전 ##
 <a href="https://github.com/se-yoo/BearsCream">BearsCream_v1.0</a>
